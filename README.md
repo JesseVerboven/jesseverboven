@@ -50,17 +50,6 @@ I'm a 21-year-old application developer from Limburg, Belgium. After graduating 
 
 <br><br>
 
-<img src="./assets/section-activity.svg" alt="Commits and languages" width="100%">
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=jesseverboven&show_icons=true&hide_title=true&bg_color=0a0a0b&text_color=a1a1aa&icon_color=c6f432&title_color=f4f4f5&border_color=232327&border_radius=14&include_all_commits=true" alt="GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesseverboven&layout=compact&hide_title=true&bg_color=0a0a0b&text_color=a1a1aa&title_color=f4f4f5&border_color=232327&border_radius=14&langs_count=6" alt="Top languages" height="165">
-</p>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jesseverboven&bg_color=0a0a0b&color=a1a1aa&line=b18cff&point=f46cf0&area=true&area_color=b18cff&hide_border=true&custom_title=%20&radius=14" alt="Contribution graph" width="100%">
-
-<br><br>
-
 <a href="mailto:jesseverboven@gmail.com">
   <img src="./assets/contact.svg" alt="Let's build something. jesseverboven@gmail.com" width="100%">
 </a>
