@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="116" viewBox="0 0 1200 116" role="img" aria-label="What I work with">
+<title>What I work with</title>
+<style>.t{fill:#f4f4f5} .m{fill:#8a8a93} @media (prefers-color-scheme: light){.t{fill:#0a0a0b} .m{fill:#6b6b73}}</style>
+<circle cx="8" cy="30" r="6" fill="#ffbf2f"/>
+<text class="m" x="24" y="35" font-family="'SF Mono', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" letter-spacing="2.5">03 · CAPABILITIES</text>
+<text class="t" x="0" y="96" font-family="'Helvetica Neue', Helvetica, Arial, 'Liberation Sans', sans-serif" font-weight="800" font-size="52" letter-spacing="-2">What I work with</text>
+</svg>

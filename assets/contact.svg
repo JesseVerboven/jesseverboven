@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Let's build something. jesseverboven@gmail.com">
+<title>Let's build something. jesseverboven@gmail.com</title>
+<style>.cur{animation:b 1.1s steps(1) infinite}@keyframes b{50%{opacity:0}}@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+<rect x=".5" y=".5" width="1199" height="299" rx="18" fill="#0a0a0b" stroke="#232327"/>
+<circle cx="48" cy="50" r="6" fill="#ff4b3a"/><circle cx="68" cy="50" r="6" fill="#b18cff"/><circle cx="88" cy="50" r="6" fill="#ffbf2f"/><circle cx="108" cy="50" r="6" fill="#c6f432"/><circle cx="128" cy="50" r="6" fill="#f46cf0"/>
+<text x="1152" y="55" text-anchor="end" font-family="'SF Mono', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" letter-spacing="2.5" fill="#8a8a93">05 · CONTACT</text>
+<text x="46" y="162" font-family="'Helvetica Neue', Helvetica, Arial, 'Liberation Sans', sans-serif" font-weight="800" font-size="84" letter-spacing="-4" fill="#f4f4f5">Let’s build something.</text>
+<text x="48" y="236" font-family="'SF Mono', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="22" fill="#c6f432">&gt;_ <tspan fill="#f4f4f5">jesseverboven@gmail.com</tspan><tspan class="cur" fill="#c6f432"> █</tspan></text>
+<text x="1152" y="236" text-anchor="end" font-family="'Helvetica Neue', Helvetica, Arial, 'Liberation Sans', sans-serif" font-size="17" fill="#8a8a93">I usually reply within a day</text>
+</svg>

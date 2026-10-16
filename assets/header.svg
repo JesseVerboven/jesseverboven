@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="470" viewBox="0 0 1200 470" role="img" aria-label="Jesse, developer">
+<title>Jesse, developer</title>
+<defs>
+  <linearGradient id="gRed" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#ff7a5c"/><stop offset=".55" stop-color="#ff4b3a"/><stop offset="1" stop-color="#c81e1e"/>
+  </linearGradient>
+  <radialGradient id="gPink" cx=".35" cy=".3" r=".8">
+    <stop offset="0" stop-color="#ffb3fb"/><stop offset=".5" stop-color="#f46cf0"/><stop offset="1" stop-color="#b52fb0"/>
+  </radialGradient>
+</defs>
+<style>
+  .l{transform-box:fill-box;transform-origin:50% 100%;animation:pop .7s cubic-bezier(.3,1.6,.5,1) both, bob 4s ease-in-out infinite}
+  .l1{animation-delay:.05s,1.2s} .l2{animation-delay:.15s,1.5s} .l3{animation-delay:.25s,1.8s}
+  .l4{animation-delay:.35s,2.1s} .l5{animation-delay:.45s,2.4s}
+  .pupil{animation:look 6s ease-in-out infinite}
+  .dev{animation:rise .8s .6s cubic-bezier(.2,.8,.2,1) both}
+  @keyframes pop{0%{opacity:0;transform:translateY(40px) scale(.6)}100%{opacity:1;transform:none}}
+  @keyframes bob{0%,100%{translate:0 0}50%{translate:0 -6px}}
+  @keyframes look{0%,40%,100%{transform:translate(0,0)}50%,70%{transform:translate(-5px,2px)}80%,90%{transform:translate(4px,-1px)}}
+  @keyframes rise{0%{opacity:0;transform:translateY(24px)}100%{opacity:1;transform:none}}
+  @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<rect width="1200" height="470" rx="18" fill="#0a0a0b"/>
+<rect x=".5" y=".5" width="1199" height="469" rx="18" fill="none" stroke="#232327"/>
+<circle cx="48" cy="46" r="7" fill="#ff4b3a"/><circle cx="70" cy="46" r="7" fill="#b18cff"/><circle cx="92" cy="46" r="7" fill="#ffbf2f"/><circle cx="114" cy="46" r="7" fill="#c6f432"/><circle cx="136" cy="46" r="7" fill="#f46cf0"/>
+<text x="1152" y="51" text-anchor="end" font-family="'SF Mono', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" letter-spacing="3.5" fill="#f4f4f5">JESSEV.BE</text>
+<text x="1012" y="51" text-anchor="end" font-family="'SF Mono', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" fill="#8a8a93">/</text>
+<text x="984" y="51" text-anchor="end" font-family="'SF Mono', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" letter-spacing="3.5" fill="#8a8a93">APPLICATION DEVELOPER</text>
+
+<g class="l l1"><g transform="rotate(-7 240 195)">
+  <path d="M268 132 V218 Q268 258 228 258 Q206 258 196 242" fill="none" stroke="#fff" stroke-width="76" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M268 132 V218 Q268 258 228 258 Q206 258 196 242" fill="none" stroke="url(#gRed)" stroke-width="50" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M258 150 V205" stroke="#fff" stroke-opacity=".35" stroke-width="7" stroke-linecap="round"/>
+</g></g>
+<g class="l l2"><g transform="rotate(3 420 190)"><path transform="translate(363 119)" d="M0 0H116V40H42V52H100V90H42V104H116V144H0Z" fill="#5e35c9"/><path transform="translate(364 120)" d="M0 0H116V40H42V52H100V90H42V104H116V144H0Z" fill="#5e35c9"/><path transform="translate(365 121)" d="M0 0H116V40H42V52H100V90H42V104H116V144H0Z" fill="#5e35c9"/><path transform="translate(366 122)" d="M0 0H116V40H42V52H100V90H42V104H116V144H0Z" fill="#5e35c9"/><path transform="translate(367 123)" d="M0 0H116V40H42V52H100V90H42V104H116V144H0Z" fill="#5e35c9"/><path transform="translate(368 124)" d="M0 0H116V40H42V52H100V90H42V104H116V144H0Z" fill="#5e35c9"/><path transform="translate(369 125)" d="M0 0H116V40H42V52H100V90H42V104H116V144H0Z" fill="#5e35c9"/><path transform="translate(370 126)" d="M0 0H116V40H42V52H100V90H42V104H116V144H0Z" fill="#5e35c9"/><path transform="translate(371 127)" d="M0 0H116V40H42V52H100V90H42V104H116V144H0Z" fill="#5e35c9"/><path transform="translate(372 128)" d="M0 0H116V40H42V52H100V90H42V104H116V144H0Z" fill="#5e35c9"/><path transform="translate(373 129)" d="M0 0H116V40H42V52H100V90H42V104H116V144H0Z" fill="#5e35c9"/><path transform="translate(374 130)" d="M0 0H116V40H42V52H100V90H42V104H116V144H0Z" fill="#5e35c9"/>
+  <path transform="translate(362 118)" d="M0 0H116V40H42V52H100V90H42V104H116V144H0Z" fill="#b18cff"/>
+  <path transform="translate(362 118)" d="M6 6H110" stroke="#fff" stroke-opacity=".3" stroke-width="4" stroke-linecap="round"/>
+</g></g>
+<g class="l l3"><g transform="rotate(-4 590 190)"><g fill="#e07b10"><rect x="555" y="127" width="20" height="20"/><rect x="575" y="127" width="20" height="20"/><rect x="595" y="127" width="20" height="20"/><rect x="615" y="127" width="20" height="20"/><rect x="635" y="127" width="20" height="20"/><rect x="535" y="147" width="20" height="20"/><rect x="555" y="147" width="20" height="20"/><rect x="535" y="167" width="20" height="20"/><rect x="555" y="167" width="20" height="20"/><rect x="555" y="187" width="20" height="20"/><rect x="575" y="187" width="20" height="20"/><rect x="595" y="187" width="20" height="20"/><rect x="615" y="187" width="20" height="20"/><rect x="615" y="207" width="20" height="20"/><rect x="635" y="207" width="20" height="20"/><rect x="615" y="227" width="20" height="20"/><rect x="635" y="227" width="20" height="20"/><rect x="535" y="247" width="20" height="20"/><rect x="555" y="247" width="20" height="20"/><rect x="575" y="247" width="20" height="20"/><rect x="595" y="247" width="20" height="20"/><rect x="615" y="247" width="20" height="20"/></g><g fill="#ffbf2f"><rect x="548" y="120" width="20.5" height="20.5"/><rect x="568" y="120" width="20.5" height="20.5"/><rect x="588" y="120" width="20.5" height="20.5"/><rect x="608" y="120" width="20.5" height="20.5"/><rect x="628" y="120" width="20.5" height="20.5"/><rect x="528" y="140" width="20.5" height="20.5"/><rect x="548" y="140" width="20.5" height="20.5"/><rect x="528" y="160" width="20.5" height="20.5"/><rect x="548" y="160" width="20.5" height="20.5"/><rect x="548" y="180" width="20.5" height="20.5"/><rect x="568" y="180" width="20.5" height="20.5"/><rect x="588" y="180" width="20.5" height="20.5"/><rect x="608" y="180" width="20.5" height="20.5"/><rect x="608" y="200" width="20.5" height="20.5"/><rect x="628" y="200" width="20.5" height="20.5"/><rect x="608" y="220" width="20.5" height="20.5"/><rect x="628" y="220" width="20.5" height="20.5"/><rect x="528" y="240" width="20.5" height="20.5"/><rect x="548" y="240" width="20.5" height="20.5"/><rect x="568" y="240" width="20.5" height="20.5"/><rect x="588" y="240" width="20.5" height="20.5"/><rect x="608" y="240" width="20.5" height="20.5"/></g></g></g>
+<g class="l l4"><g transform="rotate(6 755 195)">
+  <path d="M803 152 C792 122 706 118 708 162 C710 202 804 190 806 232 C808 276 716 274 700 242" fill="none" stroke="#7fa012" stroke-width="54" stroke-linecap="round" transform="translate(4 6)"/>
+  <path d="M803 152 C792 122 706 118 708 162 C710 202 804 190 806 232 C808 276 716 274 700 242" fill="none" stroke="#c6f432" stroke-width="54" stroke-linecap="round"/>
+  <path d="M803 152 C792 122 706 118 708 162 C710 202 804 190 806 232 C808 276 716 274 700 242" fill="none" stroke="#0a0a0b" stroke-width="4" stroke-linecap="round"/>
+</g></g>
+<g class="l l5">
+  <circle cx="925" cy="190" r="78" fill="url(#gPink)"/>
+  <ellipse cx="895" cy="146" rx="22" ry="11" fill="#fff" opacity=".28" transform="rotate(-30 895 146)"/>
+  <circle cx="903" cy="160" r="15" fill="#fff" stroke="#3b0a3a" stroke-width="3"/>
+  <circle cx="938" cy="156" r="15" fill="#fff" stroke="#3b0a3a" stroke-width="3"/>
+  <circle class="pupil" cx="906" cy="161" r="6.5" fill="#1a0820"/>
+  <circle class="pupil" cx="941" cy="157" r="6.5" fill="#1a0820"/>
+  <path transform="translate(905 186) rotate(-6) scale(.36)" d="M0 0H116V40H42V52H100V90H42V104H116V144H0Z" fill="#5b1460"/>
+</g>
+<text class="dev" x="600" y="418" text-anchor="middle" font-family="'Helvetica Neue', Helvetica, Arial, 'Liberation Sans', sans-serif" font-weight="800" font-size="148"
+  letter-spacing="-7" textLength="740" lengthAdjust="spacingAndGlyphs" fill="#f4f4f5">developer</text>
+</svg>

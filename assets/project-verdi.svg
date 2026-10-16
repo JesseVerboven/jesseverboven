@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="300" viewBox="0 0 600 300" role="img" aria-label="Verdi Bikes">
+<title>Verdi Bikes: Showcase site for handcrafted custom bicycles and personalised bike services.</title>
+<style>.pulse{animation:p 2s ease-in-out infinite}@keyframes p{50%{opacity:.25}}@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+<defs><clipPath id="c"><rect width="600" height="300" rx="18"/></clipPath></defs>
+<g clip-path="url(#c)"><rect width="600" height="300" fill="#0a0a0b"/><rect width="600" height="6" fill="#ffbf2f"/></g>
+<rect x=".5" y=".5" width="599" height="299" rx="18" fill="none" stroke="#232327"/>
+<text x="32" y="54" font-family="'SF Mono', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" letter-spacing="2" fill="#8a8a93">2024</text>
+<circle class="" cx="470.3" cy="49" r="5" fill="#8a8a93"/>
+<text x="568" y="54" text-anchor="end" font-family="'SF Mono', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="1.5" fill="#8a8a93">COMPLETED</text>
+<text x="32" y="118" font-family="'Helvetica Neue', Helvetica, Arial, 'Liberation Sans', sans-serif" font-weight="800" font-size="42" letter-spacing="-1.6" fill="#f4f4f5">Verdi Bikes</text>
+<text x="32" y="162" font-family="'Helvetica Neue', Helvetica, Arial, 'Liberation Sans', sans-serif" font-size="18" fill="#a1a1aa"><tspan x="32" dy="0">Showcase site for handcrafted custom bicycles and</tspan><tspan x="32" dy="26">personalised bike services.</tspan></text>
+<rect x="32" y="238" width="76.4" height="30" rx="15" fill="none" stroke="#3a3a40"/><text x="70.2" y="258" text-anchor="middle" font-family="'SF Mono', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13.5" fill="#d4d4d8">Vue.js</text>
+</svg>
